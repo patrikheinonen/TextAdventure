@@ -1,2 +1,2 @@
 # TextAdventure
-Python and SQL
+Programmed using Python and SQL mariadb servers.
